@@ -59,7 +59,7 @@ const projects = [
         image: "imagenes/App_Web_Desplegada_AWS.jpg",
         technologies: ["Amazon S3", "CloudFront", "Route 53", "Certificate Manager"],
         tags: ["Básico"],
-        github: "#",
+        github: "https://github.com/lineleron/webApp-aws-angular",
         demo: "https://www.youtube.com/watch?v=FDQZcDDI7F8"
     },
     {
