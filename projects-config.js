@@ -49,7 +49,7 @@ const projects = [
         technologies: ["AWS Organizations", "IAM", "CloudTrail", "Config"],
         tags: ["Profesional"],
         github: "https://github.com/lineleron/Creating-and-managing-an-organization-on-AWS",
-        demo: "https://youtu.be/XrhSDvMHqQg"
+        demo:"https://youtu.be/XrhSDvMHqQg"
     },
     {
         id: 2,
