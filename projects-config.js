@@ -48,7 +48,7 @@ const projects = [
         image: "imagenes/AWS_Organization.jpg",
         technologies: ["AWS Organizations", "IAM", "CloudTrail", "Config"],
         tags: ["Profesional"],
-        github: "#",
+        github: "https://github.com/lineleron/Creating-and-managing-an-organization-on-AWS",
         demo: "#"
     },
     {
