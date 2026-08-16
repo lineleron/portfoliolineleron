@@ -60,7 +60,7 @@ const projects = [
         technologies: ["Amazon S3", "CloudFront", "Route 53", "Certificate Manager"],
         tags: ["Básico"],
         github: "#",
-        demo: "#"
+        demo: "https://www.youtube.com/watch?v=FDQZcDDI7F8"
     },
     {
         id: 3,
