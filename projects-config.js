@@ -78,7 +78,7 @@ const projects = [
     title: "València Resiliente",
     description: "Solución cloud en AWS para gestión de incidencias urbanas, con EC2, ALB, HTTPS, persistencia y arquitectura preparada para escalado horizontal.",
     fullDescription: "Plataforma que conecta ciudadanía y operadores durante situaciones de emergencia. Desplegada en Amazon EC2 con persistencia sobre EBS y SQLite, Application Load Balancer con health checks, Security Groups y HTTPS mediante Caddy. Como evolución, la arquitectura contempla RDS PostgreSQL, múltiples instancias EC2 y Auto Scaling.",
-    image: "imagenes/valencia-resiliente-aws.jpg",
+    image: "imagenes/aws-architecture.png",
     technologies: [
         "Amazon EC2",
         "Amazon EBS",
