@@ -91,7 +91,7 @@ const projects = [
     ],
     tags: ["AWS", "Cloud", "Arquitectura"],
     github: "https://github.com/lineleron/valencia-resiliente-platform-aws.git",
-    demo: "https://valenciaresiliente.duckdns.org"
+    demo: "https://youtu.be/4OFVdx6ELV0"
 },
     {
         id: 5,
