@@ -74,7 +74,27 @@ const projects = [
         demo: "#"
     },
     {
-        id: 4,
+    id: 4,
+    title: "València Resiliente",
+    description: "Solución cloud en AWS para gestión de incidencias urbanas, con EC2, ALB, HTTPS, persistencia y arquitectura preparada para escalado horizontal.",
+    fullDescription: "Plataforma que conecta ciudadanía y operadores durante situaciones de emergencia. Desplegada en Amazon EC2 con persistencia sobre EBS y SQLite, Application Load Balancer con health checks, Security Groups y HTTPS mediante Caddy. Como evolución, la arquitectura contempla RDS PostgreSQL, múltiples instancias EC2 y Auto Scaling.",
+    image: "imagenes/valencia-resiliente-aws.jpg",
+    technologies: [
+        "Amazon EC2",
+        "Amazon EBS",
+        "AWS ALB",
+        "Security Groups",
+        "Python",
+        "SQLite",
+        "Caddy",
+        "DuckDNS"
+    ],
+    tags: ["AWS", "Cloud", "Arquitectura"],
+    github: "https://github.com/lineleron/valencia-resiliente-platform-aws.git",
+    demo: "https://valenciaresiliente.duckdns.org"
+},
+    {
+        id: 5,
         title: "Kubernetes en AWS",
         description: "CI/CD, despliegue con contenedores y uso de múltiples lenguajes y tecnologías",
         fullDescription: "Aplicación distribuida en clúster de Kubernetes gestionado con múltiples APIs backend en contenedores, base de datos MongoDB y servicios de AWS.",
