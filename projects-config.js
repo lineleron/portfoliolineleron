@@ -70,8 +70,8 @@ const projects = [
         image: "imagenes/Arquitectura_ECS.jpg",
         technologies: ["Amazon ECS", "Amazon CloudWatch", "Amazon ECR", "Amazon VPC", "ALB", "NAT Gateway"],
         tags: ["Avanzado"],
-        github: "#",
-        demo: "#"
+        github: "https://github.com/lineleron/Proyecto-pr-ctico-real-Docker-en-AWS-con-Amazon-ECS.git",
+        demo: "https://github.com/lineleron/Proyecto-pr-ctico-real-Docker-en-AWS-con-Amazon-ECS.git"
     },
     {
     id: 4,
