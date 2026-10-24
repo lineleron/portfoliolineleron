@@ -101,8 +101,8 @@ const projects = [
         image: "imagenes/Kubernetes_AWS.jpg",
         technologies: ["Angular", "Docker", "Amazon ECR", "MongoDB", "Amazon SES", "Minikube"],
         tags: ["Profesional"],
-        github: "#",
-        demo: "#"
+        github: "https://github.com/lineleron/Pok-mon-App-Docker-y-Kubernetes-en-AWS.git",
+        demo: "https://github.com/lineleron/Pok-mon-App-Docker-y-Kubernetes-en-AWS.git"
     },
     {
         id: 6,
